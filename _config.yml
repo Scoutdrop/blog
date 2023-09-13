@@ -15,6 +15,9 @@ avatar: https://avatars.githubusercontent.com/u/144936728?s=400&u=247a2f62e692d4
 # Flags below are optional
 #
 
+# Theme information
+remote_them: centrarium
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
